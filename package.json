@@ -1,0 +1,26 @@
+{
+  "name": "Homework12-EmployeeTracker",
+  "version": "1.0.0",
+  "description": "Repository for Homework 12 - MySQL Employee Tracker",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjwallac/Homework12-EmployeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjwallac/Homework12-EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/kjwallac/Homework12-EmployeeTracker#readme"
+}
